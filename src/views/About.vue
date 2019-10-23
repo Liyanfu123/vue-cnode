@@ -1,5 +1,25 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    About
   </div>
 </template>
+
+<script>
+export default {
+  name: "About",
+  components: {},
+  props: {},
+  data() {
+    return {};
+  },
+  methods: {},
+  mounted() {},
+  created() {},
+  filters: {},
+  computed: {},
+  watch: {},
+  directives: {}
+};
+</script>
+
+<style scoped lang="scss"></style>
